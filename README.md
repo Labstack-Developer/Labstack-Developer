@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hey, I'm Sam 👋
 
-<!--
-**Labstack-Developer/Labstack-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Service Desk Professional transitioning to DevOps Engineering** | Based in Derbyshire, UK
 
-Here are some ideas to get you started:
+I'm an IT professional with 3+ years of hands-on support experience, now channelling that operational knowledge into infrastructure automation and DevOps practices. I run an extensive homelab where I build, break, and document enterprise-grade solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I'm Working With
+
+- **Infrastructure as Code:** Terraform, Ansible
+- **Virtualisation:** Proxmox VE (24-core cluster)
+- **Containers:** Docker, exploring Kubernetes
+- **CI/CD:** GitLab pipelines
+- **Monitoring:** Grafana, Prometheus, Zabbix
+- **Networking:** OPNsense, VLANs, nginx
+- **Cloud:** AWS (currently upskilling)
+- **Scripting:** Bash, Python, PowerShell
+
+## 🏠 Homelab Highlights
+
+My homelab is my playground for learning production-grade infrastructure:
+
+- Proxmox cluster with Terraform-managed VM provisioning via GitLab CI/CD
+- OPNsense firewall with Ansible-driven configuration management
+- Full observability stack with Grafana dashboards
+- Automated deployments for self-hosted services
+
+## 📝 Writing & Learning
+
+I document my projects and learnings at **[blog.labstack.dev](https://blog.labstack.dev)** — covering everything from IaC implementations to homelab automation.
+
+## 🎯 Current Focus
+
+- Working through an AWS certification path
+- Deepening Kubernetes knowledge
+- Building out Python automation scripts
+- Expanding my Terraform modules
+
+## 📫 Get in Touch
+
+- 🌐 [sambytesolutions.co.uk](https://sambytesolutions.co.uk)
+- 📖 [blog.labstack.dev](https://blog.labstack.dev)
+
+---
+
+*"The best way to learn infrastructure is to run your own."*
