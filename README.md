@@ -37,7 +37,6 @@ I document my projects and learnings at **[blog.labstack.dev](https://blog.labst
 
 ## 📫 Get in Touch
 
-- 🌐 [sambytesolutions.co.uk](https://sambytesolutions.co.uk)
 - 📖 [blog.labstack.dev](https://blog.labstack.dev)
 
 ---
