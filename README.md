@@ -35,10 +35,6 @@ I document my projects and learnings at **[blog.labstack.dev](https://blog.labst
 - Building out Python automation scripts
 - Expanding my Terraform modules
 
-## 📫 Get in Touch
-
-- 📖 [blog.labstack.dev](https://blog.labstack.dev)
-
 ---
 
 *"The best way to learn infrastructure is to run your own."*
