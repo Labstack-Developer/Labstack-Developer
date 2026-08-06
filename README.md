@@ -24,9 +24,6 @@ My homelab is my playground for learning production-grade infrastructure:
 - Full observability stack with Grafana dashboards
 - Automated deployments for self-hosted services
 
-## 📝 Writing & Learning
-
-I document my projects and learnings at **[blog.labstack.dev](https://blog.labstack.dev)** — covering everything from IaC implementations to homelab automation.
 
 ## 🎯 Current Focus
 
